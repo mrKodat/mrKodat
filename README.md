@@ -1,5 +1,4 @@
 # Hello, I'm Mirac 👋
-**"Every line of code tells a story"**
 
 - 🛠 Skilled in Dart & Flutter
 - 🤖 Developing AI Applications
