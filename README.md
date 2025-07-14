@@ -4,7 +4,6 @@
 - 🤖 Developing AI Applications
 - 🌐 Intermediate in Node.js & React
 - 💻 Building both Mobile and Web Apps
-- 🇨🇭 Working at Onremote AG company in Switzerland
 
 ## 🛠 Languages and Tools
 
