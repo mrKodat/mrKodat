@@ -12,10 +12,22 @@
 ## 👨‍💻 About Me
 
 - 🛠 Skilled in **Dart & Flutter**
-- 🤖 Developing **AI Applications**
+- 🤖 Developing **AI Applications** & training/fine-tuning **ML models**
 - 🌐 Intermediate in **Node.js & React**
 - 💻 Building both **Mobile and Web Apps**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mirackodat)
+
+---
+
+## 🤖 AI / Machine Learning
+
+- 🧠 **Model training & fine-tuning** — supervised fine-tuning (SFT), transfer learning, LoRA / PEFT
+- 🔧 **Deep learning frameworks** — PyTorch & TensorFlow / Keras
+- 🤗 **Hugging Face ecosystem** — `transformers`, `datasets`, `accelerate`, model & dataset hosting on the Hub
+- 📚 **NLP & LLMs** — tokenization, embeddings, prompt engineering, RAG (Retrieval-Augmented Generation)
+- 🔬 **Classic ML** — scikit-learn, feature engineering, model evaluation & metrics
+- 📊 **Data & experimentation** — Pandas, NumPy, Jupyter, dataset preparation & augmentation
+- 🚀 **Deployment** — model serving via REST APIs, ONNX, containerized inference with Docker
 
 ---
 
@@ -23,6 +35,18 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,javascript,typescript,react,nodejs,azure,firebase,mongodb,git,github,java,selenium,python,docker" alt="Languages and Tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
 ---
